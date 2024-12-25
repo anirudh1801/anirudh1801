@@ -42,7 +42,7 @@
 <br><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anirudh1801&show_icons=true&locale=en" alt="anirudh1801" />
-<br><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh1801&" alt="anirudh1801" /></p>
+<br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh1801&" alt="anirudh1801" /></p>
 
 
 
