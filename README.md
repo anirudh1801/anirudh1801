@@ -43,7 +43,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; gap: 10px;">
   <p><img src="https://github-readme-stats.vercel.app/api?username=anirudh1801&show_icons=true&locale=en" alt="anirudh1801" width="46%" /> &nbsp&nbsp&nbsp
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh1801&" alt="anirudh1801" width="48%" /></p> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh1801&" alt="anirudh1801" width="48%" /></p>  
 </div>
 
 
