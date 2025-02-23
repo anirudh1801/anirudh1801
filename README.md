@@ -13,7 +13,7 @@
 
 - 👨‍💻 I am committed to continuous learning and look forward to leveraging my technical skills to contribute to impactful projects.
   
-- 🏫Academically, I have achieved excellence, **securing a university rank in the M3 subject, along with multiple department-level distinctions.**
+- 🏫Academically, I have achieved excellence, **securing a university rank in the M3 subject, along with multiple college and department-level distinctions.**
 
 - 📫 How to reach me : **aniruddharepale66@gmail.com**
 <br><br>
