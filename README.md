@@ -5,15 +5,11 @@
 
 - 🎓 I’m an IT student with a passion for tech and continuous learning.
 
-- 🏅 I have earned a certification in Python and further expanded my expertise with certifications in **emerging technologies such as 5G and Generative AI.**
-
-- 🌱 Currently deepening my knowledge in Data Structures and Algorithms (DSA) to strengthen my problem-solving skills.
-
-- 💻 Began my journey in web development during my higher secondary education, where I learned HTML, CSS, and JavaScript, building various related projects.
-
+- 🏅 Web Development | Emerging technologies | Generative AI
+  
 - 👨‍💻 I am committed to continuous learning and look forward to leveraging my technical skills to contribute to impactful projects.
   
-- 🏫Academically, I have achieved excellence, **securing a university rank in the M3 subject, along with multiple college and department-level distinctions.**
+- 🏫Academically, I have achieved excellence, securing a university rank , along with multiple college and department-level distinctions.
 
 - 📫 How to reach me : **aniruddharepale66@gmail.com**
 <br><br>
